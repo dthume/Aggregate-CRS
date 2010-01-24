@@ -1,0 +1,8 @@
+pom-generated.xml
+Manifest.txt
+acrs.jar
+lib
+classes
+# ignore emacs files
+*~
+\#*\#
